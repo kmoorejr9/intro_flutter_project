@@ -1,6 +1,5 @@
-# Technical Interview
+# Flutter Intro Project Evaluation
 
-Mobile position Flutter intervew project for Oddball
 
 ## Requirements for running the project
 
@@ -44,7 +43,7 @@ The Marvel API requires a hash based on a time stamp, the public key, and the pr
 
 ## Model
 
-Do to the complexity of the Marvel API Characters and Character models, we have included the models ahead of time for the canidate to use. Make use of them how you see fit.
+Do to the complexity of the Marvel API Characters and Character models, we have included the models ahead of time for you to use. Make use of them how you see fit.
 
 ## Completion Criteria
 
